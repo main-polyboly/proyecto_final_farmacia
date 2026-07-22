@@ -1,0 +1,5 @@
+D:\farmacia_salud\venv\Scripts\python.exe D:\farmacia_salud\farmacia_salud\main.py
+
+
+
+ .\venv\Scripts\python.exe .\farmacia_salud\main.py

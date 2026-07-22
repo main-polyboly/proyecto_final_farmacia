@@ -1,0 +1,102 @@
+"""Generador de informe final."""
+
+import os
+from datetime import datetime
+
+OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "..", "..", "outputs")
+informe_dir = os.path.join(os.path.dirname(__file__), "..", "..", "informe_final")
+os.makedirs(informe_dir, exist_ok=True)
+
+
+def generar_informe_texto(rfm_df=None):
+    fecha = datetime.now().strftime("%Y-%m-%d %H:%M")
+    informe = f"""INFORME PRELIMINAR - PROYECTO FINAL ISID223
+Transformación Digital Empresarial — Firma Consultora INNOVATE TECH
+Generado: {fecha}
+=========================================================
+
+1. RESUMEN EJECUTIVO
+---------------------------------------------------------
+Este informe presenta el resultado de la consultoría realizada a la cadena de
+farmacias de barrio (4 sucursales en 3 zonas). La organización operaba con
+procesos manuales, silos de información y falta de trazabilidad entre ventas,
+inventario y finanzas. Se digitalizó el proceso de venta (POS), se integró un
+módulo ERP de caja chica con asientos contables automáticos, un módulo SCM de
+inventario y proveedores con alertas inteligentes, y un CRM que detecta clientes
+en riesgo de deserción. El resultado: una transacción de venta actualiza toda la
+cadena de valor sin intervención manual.
+
+2. DISEÑO ESTRATÉGICO
+---------------------------------------------------------
+2.1 Análisis Porter (5 fuerzas):
+- Rivalidad: alta competencia contra farmacias grandes y farmacias online.
+- Amenaza de sustitutos: venta por marketplace, delivery, genéricos.
+- Poder del cliente: fidelización baja; los clientes migran por precio.
+- Poder del proveedor: concentrado en laboratorios; riesgo de stock.
+- Barreras de entrada: moderadas (regulación farmacéutica, stock, ubicación).
+
+Conclusión: La información integrada mejora la posición competitiva al reducir
+costos de stock y permitir campañas segmentadas con el CRM.
+
+2.2 Cadena de Valor:
+Actual: venta manual, registro en papel, recuento físico, conciliación manual.
+Propuesta:
+- Logística entrada: alerta automática SCM + OC.
+- Operaciones: POS digital con un clic.
+- Marketing: segmentación RFM + campañas CRM.
+- Servicio: historial de compras por cliente.
+
+2.3 Diagrama ER:
+Tablas: Cliente (customer_id, nombre, segmento), Producto (barcode, nombre,
+dosage_form, tipo), Sucursal (nombre, zona), Venta (invoice, fecha, total),
+DetalleVenta (cantidad, precio_unitario), Proveedor, OrdenCompra, Inventario,
+AsientoContable, CajaChica.
+
+3. DOCUMENTACIÓN TÉCNICA
+---------------------------------------------------------
+Módulos:
+- Core/POS: Python, SQLAlchemy, patrón observable (on_venta_registrada).
+- ERP/SCM/CRM: suscriptores al evento Core que ejecutan lógica propia.
+- BI: RFM con Pandas.
+- Dashboard: Matplotlib/Seaborn.
+
+Integración:
+1. Venta se registra en Core.
+2. Evento dispara ERP (asiento contable + movimiento caja).
+3. Evento dispara SCM (descuenta stock; genera OC si stock < mínimo).
+4. CRM consulta periodicamente clientes sin compras >N días.
+5. BI: RFM sobre histórico.
+6. Dashboard grafica todo.
+
+Supuestos documentados:
+- Clientes sintéticos (1..500) porque el dataset no incluye customer_id.
+- Precios por dosage_form generados en tabla precios.
+- Sales_Sheet es cantidad vendida.
+- Fecha de carga = fecha de la transacción.
+
+4. REPORTE DE INTeligencia
+---------------------------------------------------------
+Segmentos RFM generados sobre los datos históricos.
+Ver gráfico: outputs/02_segmentos_rfm.png
+
+KPIs en dashboard:
+- Evolución de ventas por sucursal.
+- Distribución por segmento RFM.
+- Saldo caja chica vs órdenes de compra.
+
+5. ANEXOS
+---------------------------------------------------------
+- Repositorio: carpeta del proyecto
+- Datos: PharmacyTransactionalDataset/
+- Script principal: farmacia_salud/main.py
+"""
+    path = os.path.join(informe_dir, "informe_preliminar.txt")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(informe)
+    print(f"[INFORME] Guardado en {path}")
+    return path
+
+
+def generar_informe_pdf():
+    print("[INFORME] Para generar PDF ejecutar: python -m pip install fpdf2")
+    print("[INFORME] y usar el script reports/main.py")

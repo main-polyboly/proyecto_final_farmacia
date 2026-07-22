@@ -1,0 +1,501 @@
+Invoice,barcode,name,dosage_form,Sheet,Sales_Sheet,Sales_pack,addeddate,time_,type
+1195615,1062,A.M-E.C,gerawa,1,1,1,1/1/2024,4:35PM,Drug
+1195615,8.40274E+11,queen aromatherapy grad,Soap,1,1,1,1/1/2024,4:35PM,Supply
+1195615,3.7005E+12,Doxycreat 100mg,Tablet,2,6,3,1/1/2024,4:35PM,Drug
+1195615,3.40156E+12,BIODERMA Photoderm  max  spf 50  40ml toucher  sec dry touch,Cream,1,1,1,1/1/2024,4:35PM,Supply
+1195618,6.25188E+12,Piodol 500mg ADVANCE,Tablet,2,2,1,8/26/2024,4:54PM,Drug
+1195635,215,Allermine 25mg,Tablet,1,1,1,6/23/2024,6:11PM,Drug
+1195635,4.26012E+12,prednisolon  5mg,Tablet,2,3,1,6/23/2024,6:11PM,Drug
+1195635,6.25116E+12,Mesone,Ointment,1,1,1,6/23/2024,6:10PM,Drug
+1195635,1066,S-Z.O,gerawa,1,1,1,6/23/2024,6:10PM,Drug
+1195637,4.26022E+12,caelin ketovit shampoo,Shampoo,1,1,1,6/20/2024,6:15PM,Supply
+1195637,8.69962E+12,Irazole  100mg  15tab,Capsule,3,3,1,6/20/2024,6:15PM,Drug
+1195637,8.90425E+12,istovin 20mg,Capsule,3,2,0,6/20/2024,6:15PM,Drug
+1195670,3.40138E+12,BIODERMA Atoderm intensive Baume  200ml,Lotion,1,1,1,1/6/2024,1:14PM,Supply
+1195679,8.90425E+12,istovin 20mg,Capsule,3,2,0,8/30/2024,1:31PM,Drug
+1195679,3.40158E+12,BIODERMA SEBIUM,foaming jel,1,1,1,8/30/2024,1:31PM,Supply
+1195679,3.0315E+12,ISIS unitone 4 white advanced,serum,1,1,1,8/30/2024,1:31PM,Supply
+1195679,2254,LA ROCHE-Posay Anthelios +50 shaka fluid,fluide,1,1,1,8/30/2024,1:31PM,Supply
+1195679,1069,C%2-A,gerawa,1,1,1,8/30/2024,1:31PM,Drug
+1195679,1062,A.M-E.C,gerawa,1,1,1,8/30/2024,1:31PM,Drug
+1195679,1067,S.A %3 -D,gerawa,1,1,1,8/30/2024,1:30PM,Drug
+1195681,8.69957E+12,SPAZMOTEK PLUS,Tablet,2,1,0,11/15/2024,1:41PM,Drug
+1195760,1065,S.A % 1.5 -E.O,gerawa,1,1,1,5/22/2024,5:44PM,Drug
+1195760,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,5/22/2024,5:44PM,Supply
+1195760,126,Canesten 20g skin cream,Cream,1,1,1,5/22/2024,5:44PM,Drug
+1195760,5.70219E+12,Fucidine 15G oint,Ointment,1,1,1,5/22/2024,5:44PM,Drug
+1195760,8.69962E+12,Irazole  100mg  15tab,Capsule,3,3,1,5/22/2024,5:44PM,Drug
+1195760,4.26022E+12,caelin ketovit shampoo,Shampoo,1,1,1,5/22/2024,5:44PM,Supply
+1195791,6.25107E+12,Amoclan Bid 1g,Tablet,1,1,1,12/22/2024,7:21PM,Drug
+1195941,8.90425E+12,istovin 20mg,Capsule,3,2,0,4/30/2024,12:59PM,Drug
+1195966,1065,S.A % 1.5 -E.O,gerawa,1,1,1,2/2/2024,3:06PM,Drug
+1196016,4.823E+12,Moleskin %0.1 cream,Cream,1,1,1,11/4/2024,4:06PM,Drug
+1196041,9.5011E+12,L-Cet,Tablet,2,1,0,10/1/2024,3:02PM,Drug
+1196047,4.26012E+12,prednisolon  5mg,Tablet,2,1,0,10/14/2024,3:17PM,Drug
+1196047,4.26012E+12,prednisolon  5mg,Tablet,2,2,1,10/14/2024,3:16PM,Drug
+1196047,4.26012E+12,prednisolon  5mg,Tablet,2,2,1,10/14/2024,3:16PM,Drug
+1196091,1069,C%2-A,gerawa,1,1,1,7/6/2024,1:35PM,Drug
+1196091,3.49932E+12,Benzac AC 5%,Cream,1,1,1,7/6/2024,1:35PM,Drug
+1196091,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,7/6/2024,1:35PM,Supply
+1196091,8.58801E+12,Aloe and lime lip balm spf 10,lip balm,1,1,1,7/6/2024,1:35PM,Supply
+1196091,1062,A.M-E.C,gerawa,1,1,1,7/6/2024,1:35PM,Drug
+1196120,1073,P-M 30ml or 40ml,gerawa,1,1,1,7/19/2024,3:11PM,Drug
+1196120,8.01313E+12,foltene strengthening for thinning hair for men shampoo,Shampoo,1,1,1,7/19/2024,3:11PM,Supply
+1196120,8.69958E+12,dILAPROST 5mg ,Tablet,3,3,1,7/19/2024,3:11PM,Drug
+1196120,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,7/19/2024,3:11PM,Supply
+1196120,6.28126E+12,Elica-M,Ointment,1,1,1,7/19/2024,3:11PM,Drug
+1196131,4.26012E+12,prednisolon  5mg,Tablet,2,1,0,12/6/2024,4:38PM,Drug
+1196131,4.26022E+12,CAELIN VITAMIN E PLUS,Soap,1,1,1,12/6/2024,4:37PM,Supply
+1196131,4.26012E+12,prednisolon  5mg,Tablet,2,2,1,12/6/2024,4:37PM,Drug
+1196131,8.40274E+11,queen aromatherapy grad,Soap,1,1,1,12/6/2024,4:37PM,Supply
+1196131,6.28126E+12,Elica-M,Ointment,1,1,1,12/6/2024,4:37PM,Drug
+1196162,1690,D-Lortin 5mg,Tablet,3,3,1,8/5/2024,2:30PM,Drug
+1196162,4.26012E+12,prednisolon  5mg,Tablet,2,2,1,8/5/2024,2:30PM,Drug
+1196162,215,Allermine 25mg,Tablet,1,1,1,8/5/2024,2:30PM,Drug
+1196162,215,Allermine 25mg,Tablet,1,1,1,8/5/2024,2:30PM,Drug
+1196193,1069,C%2-A,gerawa,1,1,1,4/13/2024,4:47PM,Drug
+1196193,3.4014E+12,ISIS unitone 4 white,Cream,1,1,1,4/13/2024,4:47PM,Supply
+1196211,7.61208E+12,Daylong SPF50+ Lotion 50ml,Lotion,1,1,1,5/9/2024,6:04PM,Supply
+1196211,8.90601E+12,BiLuma Cream 15gm,Cream,1,1,1,5/9/2024,6:04PM,Supply
+1196218,5.70219E+12,Fucidine 15G cream,Cream,1,1,1,6/6/2024,6:22PM,Drug
+1196237,1062,A.M-E.C,gerawa,1,1,1,3/14/2024,1:40PM,Drug
+1196237,1063,R.A-C,gerawa,1,1,1,3/14/2024,1:40PM,Drug
+1196237,1069,C%2-A,gerawa,1,1,1,3/14/2024,1:40PM,Drug
+1196237,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,3/14/2024,1:40PM,Supply
+1196237,3.40135E+12,Sebium photoderm AKN Mat spf 30 40ml,Cream,1,1,1,3/14/2024,1:40PM,Supply
+1196264,8.69892E+12,Poviofix solution,SOLUTION,1,1,1,8/30/2024,4:08PM,Supply
+1196299,3.57466E+12,bebe shampoo zartpflege 200ml,Shampoo,1,1,1,4/27/2024,2:20PM,Supply
+1196300,3.0315E+12,ISIS Teen Derm,gel,1,1,1,12/21/2024,2:28PM,Supply
+1196300,2254,LA ROCHE-Posay Anthelios +50 shaka fluid,fluide,1,1,1,12/21/2024,2:28PM,Supply
+1196300,8.90146E+12,isomac 20,Capsule,3,2,0,12/21/2024,2:28PM,Drug
+1196300,1067,S.A %3 -D,gerawa,1,1,1,12/21/2024,2:28PM,Drug
+1196300,1063,R.A-C,gerawa,1,1,1,12/21/2024,2:28PM,Drug
+1196300,1062,A.M-E.C,gerawa,1,1,1,12/21/2024,2:28PM,Drug
+1196300,1069,C%2-A,gerawa,1,1,1,12/21/2024,2:27PM,Drug
+1196320,7.64014E+12,WHITE INTENSE Night 30ml,Cream,1,1,1,1/25/2024,3:42PM,Supply
+1196320,7.64014E+12,white gel 150ml,gel,1,1,1,1/25/2024,3:42PM,Supply
+1196320,7.64014E+12,SUN 50+ FLUID INVISIBLE  50ML,Cream,1,1,1,1/25/2024,3:41PM,Supply
+1196346,2020,Differin  adapalene 0.1%  30g,gel,1,1,1,6/5/2024,6:11PM,Drug
+1196374,1078,T.C.A,gerawa,1,1,1,2/12/2024,2:23PM,Supply
+1196398,1063,R.A-C,gerawa,1,1,1,12/11/2024,4:25PM,Drug
+1196398,1069,C%2-A,gerawa,1,1,1,12/11/2024,4:25PM,Drug
+1196398,1062,A.M-E.C,gerawa,1,1,1,12/11/2024,4:25PM,Drug
+1196398,8.40274E+11,queen aromatherapy grad,Soap,1,1,1,12/11/2024,4:25PM,Supply
+1196398,2254,LA ROCHE-Posay Anthelios +50 shaka fluid,fluide,1,1,1,12/11/2024,4:25PM,Supply
+1196400,4.823E+12,Moleskin %0.1 cream,Cream,1,1,1,4/9/2024,4:29PM,Drug
+1196411,3.8E+12,Actiloba plus,Capsule,3,3,1,5/26/2024,5:29PM,Drug
+1196566,126,Canesten 20g skin cream,Cream,1,1,1,6/13/2024,3:51PM,Drug
+1196627,1062,A.M-E.C,gerawa,1,1,1,12/19/2024,2:39PM,Drug
+1196627,1063,R.A-C,gerawa,1,1,1,12/19/2024,2:39PM,Drug
+1196627,1069,C%2-A,gerawa,1,1,1,12/19/2024,2:39PM,Drug
+1196627,2254,LA ROCHE-Posay Anthelios +50 shaka fluid,fluide,1,1,1,12/19/2024,2:38PM,Supply
+1196627,3.7005E+12,Doxycreat 100mg,Tablet,2,3,1,12/19/2024,2:38PM,Drug
+1196627,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,12/19/2024,2:38PM,Supply
+1196646,4.02268E+12,KidsVital Multivitamin tonic SUNLIFE,Syrup,1,3,3,7/21/2024,4:03PM,Drug
+1196646,8.05496E+12,FOKIDS vitality  150ml,Syrup,1,2,2,7/21/2024,4:02PM,Drug
+1196646,80432400395,P.O,Powder,1,3,3,7/21/2024,3:59PM,Supply
+1196647,1091,Aspirin protect 100,Tablet,2,2,1,2/3/2024,3:57PM,Drug
+1196771,8.69962E+12,Irazole  100mg  15tab,Capsule,3,3,1,11/2/2024,6:20PM,Drug
+1196816,1069,C%2-A,gerawa,1,4,4,8/21/2024,4:10PM,Drug
+1197033,2254,LA ROCHE-Posay Anthelios +50 shaka fluid,fluide,1,1,1,12/5/2024,5:57PM,Supply
+1197035,5.90473E+12,Collafix 60cap,Capsule,4,4,1,4/10/2024,6:02PM,Drug
+1197035,3.0315E+12,ISIS Teen Derm,gel,1,1,1,4/10/2024,6:02PM,Supply
+1197042,3.76027E+12,METRORUBORIL A-Z 30ml,Cream,1,1,1,5/6/2024,6:33PM,Supply
+1197059,8.69962E+12,Irazole  100mg  15tab,Capsule,3,3,1,10/5/2024,2:09PM,Drug
+1197059,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,10/5/2024,2:09PM,Supply
+1197059,8.90425E+12,istovin 20mg,Capsule,3,2,0,10/5/2024,2:09PM,Drug
+1197059,4.26012E+12,prednisolon  5mg,Tablet,2,3,1,10/5/2024,2:08PM,Drug
+1197059,8.68112E+12,KETOCONAZOLE 2%  B5,Shampoo,1,1,1,10/5/2024,2:08PM,Supply
+1197059,6.28126E+12,Elica-M,Ointment,1,1,1,10/5/2024,2:08PM,Drug
+1197067,-10420424,RUGARD UREA %10 Repair bodylotion,Lotion,1,1,1,6/16/2024,3:02PM,Supply
+1197067,3.49932E+12,Benzac AC 5%,Cream,1,1,1,6/16/2024,3:02PM,Drug
+1197067,1062,A.M-E.C,gerawa,1,1,1,6/16/2024,3:01PM,Drug
+1197067,1069,C%2-A,gerawa,1,1,1,6/16/2024,3:01PM,Drug
+1197067,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,6/16/2024,3:00PM,Supply
+1197067,3.7005E+12,Cotrim Fort,Tablet,2,3,1,6/16/2024,3:00PM,Drug
+1197067,8.90425E+12,istovin 20mg,Capsule,3,2,0,6/16/2024,3:00PM,Drug
+1197147,8.90605E+12,isotoin 20mg USP,Capsule,3,2,0,2/6/2024,1:05PM,Drug
+1197147,1069,C%2-A,gerawa,1,1,1,2/6/2024,1:05PM,Drug
+1197147,1062,A.M-E.C,gerawa,1,1,1,2/6/2024,1:05PM,Drug
+1197147,8.40274E+11,queen aromatherapy grad,Soap,1,1,1,2/6/2024,1:04PM,Supply
+1197147,3.7601E+12,ACM DEPIWHITE ADVANCED,Cream,1,1,1,2/6/2024,1:04PM,Supply
+1197147,3.0315E+12,ISIS unitone 4 white advanced,serum,1,1,1,2/6/2024,1:04PM,Supply
+1197147,8.40274E+11,king vitamin E,Soap,1,1,1,2/6/2024,1:04PM,Supply
+1197215,1069,C%2-A,gerawa,1,1,1,7/17/2024,6:06PM,Drug
+1197217,5.90017E+12,Bioflex plus join repair formula,effervecent tabalet,3,3,1,1/24/2024,6:31PM,Drug
+1197217,3.83899E+12,Doreta,Tablet,2,2,1,1/24/2024,6:31PM,Drug
+1197217,6.41985E+12,ICE Power Cold gel,gel,1,1,1,1/24/2024,6:30PM,Drug
+1197225,1140,Nectar 100% Natural,Powder,1,1,1,5/25/2024,7:14PM,Supply
+1197225,80432400395,P.O,Powder,1,6,6,5/25/2024,7:14PM,Supply
+1197225,5.06041E+12,nutrigen vegy 12vitamins +3minerals  200ml,Syrup,1,1,1,5/25/2024,7:13PM,Drug
+1197225,8.71043E+12,ENSURE large 850g,milk,1,1,1,5/25/2024,7:13PM,Supply
+1197225,5.60025E+12,kidssi GROWTH 150ml,Syrup,1,1,1,5/25/2024,7:13PM,Drug
+1197236,4.26022E+12,caelin ketovit shampoo,Shampoo,1,2,2,5/7/2024,1:03PM,Supply
+1197236,-10420424,RUGARD UREA %10 Repair bodylotion,Lotion,1,1,1,5/7/2024,12:28PM,Supply
+1197236,1065,S.A % 1.5 -E.O,gerawa,1,1,1,5/7/2024,12:28PM,Drug
+1197236,4.26022E+12,CAELIN  BABY CARE,Soap,1,2,2,5/7/2024,12:28PM,Supply
+1197236,5.31009E+12,Betasalek 50ml,Lotion,1,1,1,5/7/2024,12:28PM,Drug
+1197236,1067,S.A %3 -D,gerawa,1,1,1,5/7/2024,12:27PM,Drug
+1197236,8.68112E+12,KETOCONAZOLE 2%  B5,Shampoo,1,2,2,5/7/2024,12:27PM,Supply
+1197263,8.69955E+12,gainuup powerful fruits 300g,Powder,1,3,3,9/20/2024,3:11PM,Supply
+1197263,5.06021E+12,Vitadine 200ml,Syrup,1,1,1,9/20/2024,3:11PM,Drug
+1197263,5.06041E+12,nutrigen vegy 12vitamins +3minerals  200ml,Syrup,1,3,3,9/20/2024,3:11PM,Drug
+1197282,-1319732,micropore 3m SPi plaster lut,instrument,24,5,0,12/7/2024,4:04PM,Supply
+1197282,5.02647E+12,Chloramphenicol 1% w/w eye oint,Ointment,1,2,2,12/7/2024,4:04PM,Supply
+1197282,8.6802E+12,Levoximed  500mg,Tablet,1,1,1,12/7/2024,4:04PM,Drug
+1197282,6.95589E+12,Gauze Swam 10*10 bchuk,gauze,1,1,1,12/7/2024,4:04PM,Supply
+1197282,3.57466E+12,bebe shampoo zartpflege 200ml,Shampoo,1,1,1,12/7/2024,4:03PM,Supply
+1197282,4.82301E+12,Sodium Chloride-Darnista 400ml\,SOLUTION,1,2,2,12/7/2024,4:03PM,Supply
+1197334,4.26012E+12,Lora AIWA 10mg,Tablet,1,1,1,5/29/2024,8:52PM,Drug
+1197498,-1319732,micropore 3m SPi plaster lut,instrument,24,1,0,9/12/2024,8:41PM,Supply
+1197532,1067,S.A %3 -D,gerawa,1,1,1,2/19/2024,3:04PM,Drug
+1197532,1065,S.A % 1.5 -E.O,gerawa,1,1,1,2/19/2024,3:04PM,Drug
+1197532,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,2/19/2024,3:04PM,Supply
+1197532,1063,R.A-C,gerawa,1,1,1,2/19/2024,3:04PM,Drug
+1197532,1062,A.M-E.C,gerawa,1,1,1,2/19/2024,3:04PM,Drug
+1197532,1069,C%2-A,gerawa,1,1,1,2/19/2024,3:04PM,Drug
+1197568,4.823E+12,moleskin %0.1 ointment,Ointment,1,1,1,1/28/2024,5:06PM,Drug
+1197568,5.70219E+12,Fucidine 15G cream,Cream,1,1,1,1/28/2024,5:06PM,Drug
+1197580,1067,S.A %3 -D,gerawa,1,1,1,7/18/2024,5:30PM,Drug
+1197580,215,Allermine 25mg,Tablet,1,2,2,7/18/2024,5:30PM,Drug
+1197580,8.69983E+12,Methotrexate 50mg/5ml vial,Vial,1,1,1,7/18/2024,5:29PM,Drug
+1197580,5.70219E+12,Fucidine 15G oint,Ointment,1,1,1,7/18/2024,5:29PM,Drug
+1197612,6.25107E+12,SUPRAX D 400mg,Tablet,1,1,1,1/23/2024,2:24PM,Drug
+1197612,6.2811E+12,Divido  75mg,Capsule,2,2,1,1/23/2024,2:24PM,Drug
+1197612,1690,D-Lortin 5mg,Tablet,3,3,1,1/23/2024,2:24PM,Drug
+1197628,8.05962E+12,numed 2% sulphur,Soap,1,1,1,2/16/2024,4:49PM,Supply
+1197628,1140,Nectar 100% Natural,Powder,1,1,1,2/16/2024,4:49PM,Supply
+1197646,1067,S.A %3 -D,gerawa,1,1,1,8/30/2024,7:12PM,Drug
+1197693,3.7601E+12,novophane ds,Shampoo,1,1,1,1/28/2024,1:43PM,Supply
+1197700,0000i4,Dermodin oint,Ointment,1,1,1,4/30/2024,2:41PM,Drug
+1197700,6.26115E+12,Cortinil Eye ointment,Eye ointment,1,1,1,4/30/2024,2:40PM,Drug
+1197700,6.26009E+12,mass vita VASELINE,Ointment,1,1,1,4/30/2024,2:40PM,Supply
+1197700,8.90111E+12,Talimus 0.1%,Ointment,1,1,1,4/30/2024,2:40PM,Drug
+1197700,4.26012E+12,prednisolon  5mg,Tablet,2,1,0,4/30/2024,2:40PM,Drug
+1197700,0000i4,Dermodin oint,Ointment,1,1,1,4/30/2024,2:39PM,Drug
+1197700,6.26009E+12,mass vita VASELINE,Ointment,1,1,1,4/30/2024,2:39PM,Supply
+1197700,6.26115E+12,Cortinil Eye ointment,Eye ointment,1,1,1,4/30/2024,2:39PM,Drug
+1197700,8.90111E+12,Talimus 0.1%,Ointment,1,1,1,4/30/2024,2:38PM,Drug
+1197750,1067,S.A %3 -D,gerawa,1,1,1,5/30/2024,2:13PM,Drug
+1197750,5.70219E+12,Fucidine 15G oint,Ointment,1,1,1,5/30/2024,2:13PM,Drug
+1197750,8.69983E+12,Methotrexate 50mg/5ml vial,Vial,1,1,1,5/30/2024,2:13PM,Drug
+1197825,4.00173E+12,A-Z VITAL with Lutein 100 tab,Tablet,1,1,1,2/20/2024,7:07PM,Drug
+1197825,7.40985E+11,vitamin d3 5000 iu chewable 30 tab 21 century,Tablet,1,1,1,2/20/2024,7:07PM,Supply
+1197889,6.02402E+12,HAIR BOOSTER 60gum,gum,1,1,1,7/20/2024,3:32PM,Drug
+1197889,1069,C%2-A,gerawa,1,1,1,7/20/2024,3:32PM,Drug
+1197889,1062,A.M-E.C,gerawa,1,1,1,7/20/2024,3:31PM,Drug
+1197889,3.7005E+12,Cotrim Fort,Tablet,2,3,1,7/20/2024,3:31PM,Drug
+1197889,3.49932E+12,Benzac AC 5%,Cream,1,1,1,7/20/2024,3:31PM,Drug
+1197889,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,7/20/2024,3:31PM,Supply
+1197932,1067,S.A %3 -D,gerawa,1,1,1,10/30/2024,5:51PM,Drug
+1197932,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,10/30/2024,5:51PM,Supply
+1197932,6.25116E+12,Uciderm-B Cream,Cream,1,1,1,10/30/2024,5:51PM,Drug
+1197962,6.26015E+12,C-Lax,Capsule,3,2,0,8/27/2024,7:14PM,Supply
+1197962,5.02305E+12,KiloLoss,Capsule,1,1,1,8/27/2024,7:14PM,Supply
+1197962,5.94896E+11,Drains The oil,Capsule,2,2,1,8/27/2024,7:14PM,Supply
+1197962,5.94896E+11,Drains The oil,Capsule,2,2,1,8/27/2024,7:14PM,Supply
+1198055,5.01234E+12,SEVEN SEAS Pregnancy plus follow on,Tablet,2,2,1,1/10/2024,5:34PM,Drug
+1198101,4.26022E+12,caelin ketovit shampoo,Shampoo,1,1,1,3/9/2024,8:19PM,Supply
+1198101,4.26013E+12,NANODERMA  GREEN,Amp,1,1,1,3/9/2024,8:19PM,Supply
+1198105,80432400395,P.O,Powder,1,3,3,8/19/2024,8:42PM,Supply
+1198105,8.05496E+12,FOKIDS vitality  150ml,Syrup,1,2,2,8/19/2024,8:42PM,Drug
+1198105,5.06021E+12,Vitadine 200ml,Syrup,1,1,1,8/19/2024,8:42PM,Drug
+1198139,8.90604E+12,Leximark 500mg capsules,Capsule,10,1,0,2/7/2024,3:31PM,Drug
+1198189,1135,fat Fast  capsol 60,Capsule,1,1,1,5/14/2024,7:20PM,Supply
+1198189,5.06021E+12,Vitadine 200ml,Syrup,1,1,1,5/14/2024,7:19PM,Drug
+1198189,8.68112E+12,STAR Hair  250ml,Shampoo,1,1,1,5/14/2024,7:19PM,Supply
+1198189,80432400395,P.O,Powder,1,5,5,5/14/2024,7:19PM,Supply
+1198245,6.02402E+12,Fine's arthritis Relief Gummy 180gm,gum,1,1,1,3/13/2024,3:42PM,Supply
+1198320,8.69875E+12,Ferfolik plus B9 200ml,Syrup,1,1,1,11/3/2024,7:52PM,Supply
+1198330,5.06041E+12,nutrigen vegy 12vitamins +3minerals  200ml,Syrup,1,2,2,11/20/2024,8:54PM,Drug
+1198330,8.68185E+12,LIZEST syrup 150ml,Syrup,1,3,3,11/20/2024,8:53PM,Supply
+1198338,1062,A.M-E.C,gerawa,1,1,1,10/16/2024,2:08PM,Drug
+1198338,1063,R.A-C,gerawa,1,1,1,10/16/2024,2:08PM,Drug
+1198368,1016,Gamavate ointment,Ointment,1,1,1,1/15/2024,3:49PM,Drug
+1198368,1067,S.A %3 -D,gerawa,1,1,1,1/15/2024,3:49PM,Drug
+1198368,8.69983E+12,Methotrexate 50mg/5ml vial,Vial,1,1,1,1/15/2024,3:48PM,Drug
+1198392,6.26015E+12,C-Lax,Capsule,3,2,0,10/23/2024,5:27PM,Supply
+1198392,5.02305E+12,KiloLoss,Capsule,1,1,1,10/23/2024,5:27PM,Supply
+1198392,5.94896E+11,Drains The oil,Capsule,2,4,2,10/23/2024,5:27PM,Supply
+1198392,8.71956E+12,Multvitamin orange flavour,effervecent tabalet,1,1,1,10/23/2024,5:27PM,Supply
+1198393,1067,S.A %3 -D,gerawa,1,1,1,9/3/2024,5:29PM,Drug
+1198393,1062,A.M-E.C,gerawa,1,1,1,9/3/2024,5:29PM,Drug
+1198393,8.40274E+11,queen aromatherapy grad,Soap,1,1,1,9/3/2024,5:29PM,Supply
+1198393,4.26022E+12,caelin ketovit shampoo,Shampoo,1,1,1,9/3/2024,5:29PM,Supply
+1198393,3.40134E+12,BIODERMA SENSIBIO AR,Cream,1,1,1,9/3/2024,5:28PM,Supply
+1198420,8.69957E+12,ZELOXIM  FORT  15mg,Tablet,1,1,1,2/10/2024,6:44PM,Drug
+1198431,4.0085E+12,Bepanthen Misturizing,Cream,1,1,1,7/4/2024,7:20PM,Drug
+1198539,80432400395,P.O,Powder,1,1,1,9/27/2024,5:06PM,Supply
+1198539,8.71043E+12,Ensure complet 400g,milk,1,1,1,9/27/2024,5:06PM,Supply
+1198539,5.06021E+12,Vitadine 200ml,Syrup,1,1,1,9/27/2024,5:06PM,Drug
+1198559,6.28126E+12,Elica-M,Ointment,1,1,1,6/18/2024,5:59PM,Drug
+1198559,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,6/18/2024,5:59PM,Supply
+1198571,5.06041E+12,nutrigen vegy 12vitamins +3minerals  200ml,Syrup,1,1,1,4/3/2024,6:38PM,Drug
+1198571,5.06021E+12,Vitadine 200ml,Syrup,1,1,1,4/3/2024,6:38PM,Drug
+1198571,4.02268E+12,KidsVital Multivitamin tonic SUNLIFE,Syrup,1,3,3,4/3/2024,6:38PM,Drug
+1198609,1063,R.A-C,gerawa,1,1,1,8/31/2024,2:00PM,Drug
+1198609,8.90425E+12,istovin 20mg,Capsule,3,2,0,8/31/2024,2:00PM,Drug
+1198609,3.0315E+12,ISIS Teen Derm,gel,1,1,1,8/31/2024,2:00PM,Supply
+1198611,1063,R.A-C,gerawa,1,1,1,10/31/2024,2:25PM,Drug
+1198611,1062,A.M-E.C,gerawa,1,1,1,10/31/2024,2:25PM,Drug
+1198611,3.0315E+12,ISIS Teen Derm,gel,1,1,1,10/31/2024,2:25PM,Supply
+1198611,8.90146E+12,isomac 20,Capsule,3,2,0,10/31/2024,2:25PM,Drug
+1198729,7.52831E+11,Choline & Inositol 500/500mg,Tablet,2,4,2,9/7/2024,1:18PM,Supply
+1198765,1065,S.A % 1.5 -E.O,gerawa,1,1,1,3/25/2024,4:16PM,Drug
+1198765,5.70219E+12,Fucidine 15G oint,Ointment,1,1,1,3/25/2024,4:16PM,Drug
+1198765,6.2911E+12,CHLOROHISTOL 100ml Julphar,Syrup,1,1,1,3/25/2024,4:16PM,Drug
+1198829,194,Depo-Medrol 80mg syring,Vial,1,1,1,1/6/2024,6:40PM,Drug
+1198861,9.5011E+12,fudion cream %2,Cream,1,1,1,10/30/2024,2:19PM,Supply
+1198879,533,Chlorohistol 4mg,Tablet,1,1,1,4/10/2024,3:56PM,Drug
+1198879,5.70219E+12,Fucidine 15G cream,Cream,1,1,1,4/10/2024,3:56PM,Drug
+1198879,5.01273E+12,Aciclovir 800mg 35 tablets,Tablet,7,6,0,4/10/2024,3:56PM,Drug
+1198879,6.25107E+12,NOPAIN   D.S.,Tablet,1,1,1,4/10/2024,3:56PM,Drug
+1198879,6.25107E+12,NOPAIN   D.S.,Tablet,1,2,2,4/10/2024,3:55PM,Drug
+1198913,1069,C%2-A,gerawa,1,1,1,7/3/2024,5:31PM,Drug
+1198913,4.26022E+12,caelin ketovit shampoo,Shampoo,1,1,1,7/3/2024,5:31PM,Supply
+1198913,8.90146E+12,isomac 20,Capsule,3,2,0,7/3/2024,5:30PM,Drug
+1198913,8.69962E+12,Irazole  100mg  15tab,Capsule,3,3,1,7/3/2024,5:30PM,Drug
+1198913,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,7/3/2024,5:30PM,Supply
+1198913,4.26012E+12,prednisolon  5mg,Tablet,2,3,1,7/3/2024,5:30PM,Drug
+1198975,1069,C%2-A,gerawa,1,1,1,12/13/2024,2:28PM,Drug
+1198975,1062,A.M-E.C,gerawa,1,1,1,12/13/2024,2:28PM,Drug
+1198975,1063,R.A-C,gerawa,1,1,1,12/13/2024,2:28PM,Drug
+1198975,2254,LA ROCHE-Posay Anthelios +50 shaka fluid,fluide,1,1,1,12/13/2024,2:28PM,Supply
+1198975,8.40274E+11,queen aromatherapy grad,Soap,1,1,1,12/13/2024,2:28PM,Supply
+1199042,1062,A.M-E.C,gerawa,1,1,1,7/24/2024,5:44PM,Drug
+1199042,1069,C%2-A,gerawa,1,1,1,7/24/2024,5:44PM,Drug
+1199042,8.90605E+12,isotoin 20mg USP,Capsule,3,2,0,7/24/2024,5:44PM,Drug
+1199042,3.7005E+12,Cotrim Fort,Tablet,2,3,1,7/24/2024,5:44PM,Drug
+1199042,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,7/24/2024,5:44PM,Supply
+1199042,2254,LA ROCHE-Posay Anthelios +50 shaka fluid,fluide,1,1,1,7/24/2024,5:44PM,Supply
+1199042,3.49932E+12,Benzac AC 5%,Cream,1,1,1,7/24/2024,5:44PM,Drug
+1199284,80432400395,P.O,Powder,1,1,1,9/19/2024,6:23PM,Supply
+1199343,5.06021E+12,Vitadine 200ml,Syrup,1,1,1,5/18/2024,9:15PM,Drug
+1199343,80432400395,P.O,Powder,1,1,1,5/18/2024,9:15PM,Supply
+1199343,4.02268E+12,KidsVital Multivitamin tonic SUNLIFE,Syrup,1,1,1,5/18/2024,9:15PM,Drug
+1199369,533,Chlorohistol 4mg,Tablet,1,1,1,3/13/2024,3:32PM,Drug
+1199369,4.26012E+12,prednisolon  5mg,Tablet,2,5,2,3/13/2024,3:32PM,Drug
+1199369,1065,S.A % 1.5 -E.O,gerawa,1,2,2,3/13/2024,3:32PM,Drug
+1199369,6.2911E+12,CHLOROHISTOL 100ml Julphar,Syrup,1,1,1,3/13/2024,3:31PM,Drug
+1199369,1066,S-Z.O,gerawa,1,6,6,3/13/2024,3:31PM,Drug
+1199377,8.69955E+12,gainuup powerful fruits 300g,Powder,1,2,2,4/29/2024,4:06PM,Supply
+1199377,5.06041E+12,nutrigen vegy 12vitamins +3minerals  200ml,Syrup,1,2,2,4/29/2024,4:06PM,Drug
+1199449,5.01273E+12,Co-codamol,Tablet,4,4,1,7/12/2024,8:58PM,Drug
+1199458,8.43603E+12,Kin Efecto masaje,brush,1,1,1,8/11/2024,2:05PM,Supply
+1199535,6.25116E+12,vermazol 100mg,Tablet,1,1,1,8/6/2024,6:05PM,Supply
+1199535,5.06041E+12,nutrigen vegy 12vitamins +3minerals  200ml,Syrup,1,1,1,8/6/2024,6:05PM,Drug
+1199535,80432400395,P.O,Powder,1,1,1,8/6/2024,6:05PM,Supply
+1199546,80432400395,P.O,Powder,1,5,5,8/27/2024,6:45PM,Supply
+1199546,5.06021E+12,Vitadine 200ml,Syrup,1,1,1,8/27/2024,6:45PM,Drug
+1199546,5.06041E+12,nutrigen vegy 12vitamins +3minerals  200ml,Syrup,1,3,3,8/27/2024,6:45PM,Drug
+1199602,1067,S.A %3 -D,gerawa,1,1,1,1/31/2024,2:50PM,Drug
+1199602,4.26012E+12,prednisolon  5mg,Tablet,2,5,2,1/31/2024,2:50PM,Drug
+1199637,1063,R.A-C,gerawa,1,1,1,8/3/2024,4:36PM,Drug
+1199637,1069,C%2-A,gerawa,1,1,1,8/3/2024,4:36PM,Drug
+1199637,8.90605E+12,isotoin 20mg USP,Capsule,3,2,0,8/3/2024,4:36PM,Drug
+1199637,3.49932E+12,Benzac AC 5%,Cream,1,1,1,8/3/2024,4:36PM,Drug
+1199637,3.7005E+12,Cotrim Fort,Tablet,2,3,1,8/3/2024,4:35PM,Drug
+1199640,8.71043E+12,ENSURE large 850g,milk,1,1,1,1/18/2024,4:49PM,Supply
+1199746,5.94896E+11,Drains The oil,Capsule,2,6,3,9/6/2024,4:07PM,Supply
+1199746,8.53237E+11,Lipo6 Black,Capsule,1,2,2,9/6/2024,4:06PM,Supply
+1199764,-1319732,micropore 3m SPi plaster lut,instrument,24,2,0,6/19/2024,5:03PM,Supply
+1199764,5.02647E+12,Chloramphenicol 1% w/w eye oint,Ointment,1,2,2,6/19/2024,5:03PM,Supply
+1199764,3.57466E+12,bebe shampoo zartpflege 200ml,Shampoo,1,1,1,6/19/2024,5:03PM,Supply
+1199764,103,normal saline sodium chloride 0.9 500ml,Bottle,1,1,1,6/19/2024,5:02PM,Drug
+1199764,6.94839E+12,gauze swabs 100pcs gawra,lazga,1,1,1,6/19/2024,5:02PM,Drug
+1199764,6.93354E+12,HuaRul cotton buds,cotton,1,1,1,6/19/2024,5:02PM,Supply
+1199764,8.41021E+12,Johson baby,oil,1,1,1,6/19/2024,5:02PM,Supply
+1199764,8.69984E+12,lefox 500 mg,Tablet,1,1,1,6/19/2024,5:02PM,Drug
+1199799,720,C-LAX  25tab,Tablet,1,1,1,5/27/2024,6:33PM,Drug
+1199799,6.76195E+11,SLIMTOL Green Coffee,Capsule,4,6,1,5/27/2024,6:33PM,Drug
+1199799,5.02305E+12,KiloLoss,Capsule,1,1,1,5/27/2024,6:33PM,Supply
+1199799,1.99001E+11,Daily Complete Multivitamin adva-max,Tablet,1,1,1,5/27/2024,6:33PM,Supply
+1199823,1150,Plusflon tm,kanola,1,1,1,12/31/2024,7:39PM,Supply
+1199868,2254,LA ROCHE-Posay Anthelios +50 shaka fluid,fluide,1,1,1,8/16/2024,4:54PM,Supply
+1199868,6.25116E+12,Uciderm-B Cream,Cream,1,1,1,8/16/2024,4:53PM,Drug
+1199888,5.06041E+12,nutrigen Growmega fish oil  200ml help childern,Syrup,1,12,12,5/18/2024,6:28PM,Drug
+1199888,8.68091E+12,vitamin D 25000 l.u,Capsule,1,1,1,5/18/2024,6:28PM,Drug
+1199888,4.02268E+12,KidsVital Multivitamin tonic SUNLIFE,Syrup,1,6,6,5/18/2024,6:27PM,Drug
+1199888,80432400395,P.O,Powder,1,6,6,5/18/2024,6:27PM,Supply
+1199964,1067,S.A %3 -D,gerawa,1,1,1,10/30/2024,3:29PM,Drug
+1199964,2020,Differin  adapalene 0.1%  30g,gel,1,1,1,10/30/2024,3:29PM,Drug
+1199964,1185,Ebetrex 50mg/5ml,Vial,1,1,1,10/30/2024,3:29PM,Supply
+1199964,3.28277E+12,Ducray Kertyol-s shampoo,Shampoo,1,1,1,10/30/2024,3:29PM,Supply
+1199964,4.26022E+12,Caelin anti-lice spray,spray,1,1,1,10/30/2024,3:29PM,Supply
+1199964,3.76025E+12,Novasil H 0.1%,Lotion,1,1,1,10/30/2024,3:29PM,Drug
+1200002,8.42743E+12,Desensin repair 75ml,Toothpaste,1,1,1,12/13/2024,5:10PM,Supply
+1200011,1067,S.A %3 -D,gerawa,1,1,1,3/2/2024,5:24PM,Drug
+1200011,1073,P-M 30ml or 40ml,gerawa,1,1,1,3/2/2024,5:24PM,Drug
+1200011,1185,Ebetrex 50mg/5ml,Vial,1,1,1,3/2/2024,5:24PM,Supply
+1200011,6.28126E+12,Elica-M,Ointment,1,1,1,3/2/2024,5:24PM,Drug
+1200011,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,3/2/2024,5:24PM,Supply
+1200011,3.7601E+12,novophan energizing,Shampoo,1,1,1,3/2/2024,5:24PM,Supply
+1200011,5.90672E+12,Soft Iron + SR,Capsule,1,1,1,3/2/2024,5:24PM,Drug
+1200022,8.59561E+12,Heal Fast gel 50ml,Cream,1,1,1,8/12/2024,6:02PM,Supply
+1200022,5.90765E+12,Cosinus 60ml NOSE AND SINUSES,spray,1,2,2,8/12/2024,6:02PM,Drug
+1200026,6.25187E+12,Sulfi 5 Solifenacin succinate,Tablet,3,3,1,3/22/2024,6:15PM,Drug
+1200026,6.0914E+12,Zyloric 100mg  100 tab,Tablet,4,1,0,3/22/2024,6:15PM,Drug
+1200038,6.02402E+12,Fine`s multivitamin Pectin Gummies,gum,1,1,1,1/12/2024,6:39PM,Drug
+1200044,1062,A.M-E.C,gerawa,1,1,1,7/17/2024,6:59PM,Drug
+1200044,1063,R.A-C,gerawa,1,1,1,7/17/2024,6:59PM,Drug
+1200052,8.90146E+12,isomac 20,Capsule,3,2,0,6/18/2024,7:05PM,Drug
+1200052,8.58801E+12,Aloe and lime lip balm spf 10,lip balm,1,1,1,6/18/2024,7:05PM,Supply
+1200052,1063,R.A-C,gerawa,1,1,1,6/18/2024,7:05PM,Drug
+1200052,1069,C%2-A,gerawa,1,1,1,6/18/2024,7:05PM,Drug
+1200052,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,6/18/2024,7:05PM,Supply
+1200052,3.7601E+12,ACM DEPIWHITE ADVANCED,Cream,1,1,1,6/18/2024,7:05PM,Supply
+1200165,80432400395,P.O,Powder,1,3,3,12/19/2024,5:29PM,Supply
+1200165,4.02268E+12,KidsVital Multivitamin tonic SUNLIFE,Syrup,1,4,4,12/19/2024,5:29PM,Drug
+1200165,5.06021E+12,"Colevit D3 50,000 IU",Capsule,1,1,1,12/19/2024,5:29PM,Drug
+1200214,5.02647E+12,Chloramphenicol 1% w/w eye oint,Ointment,1,1,1,10/7/2024,7:45PM,Supply
+1200214,5.90765E+12,Cosinus 60ml NOSE AND SINUSES,spray,1,1,1,10/7/2024,7:45PM,Drug
+1200214,5.90765E+12,Cosinus 60ml NOSE AND SINUSES,spray,1,1,1,10/7/2024,7:45PM,Drug
+1200214,8.59561E+12,Heal Fast gel 50ml,Cream,1,1,1,10/7/2024,7:45PM,Supply
+1200265,1069,C%2-A,gerawa,1,1,1,12/22/2024,3:39PM,Drug
+1200265,1062,A.M-E.C,gerawa,1,1,1,12/22/2024,3:39PM,Drug
+1200265,8.90605E+12,isotoin 20mg USP,Capsule,3,2,0,12/22/2024,3:39PM,Drug
+1200265,3.7005E+12,Cotrim Fort,Tablet,2,3,1,12/22/2024,3:39PM,Drug
+1200265,2254,LA ROCHE-Posay Anthelios +50 shaka fluid,fluide,1,1,1,12/22/2024,3:39PM,Supply
+1200265,3.49932E+12,Benzac AC 5%,Cream,1,1,1,12/22/2024,3:39PM,Drug
+1200265,3.28278E+12,Avene Cleanance gel  300ml,gel,1,1,1,12/22/2024,3:39PM,Supply
+1200265,1069,C%2-A,gerawa,1,1,1,12/22/2024,3:38PM,Drug
+1200265,1062,A.M-E.C,gerawa,1,1,1,12/22/2024,3:38PM,Drug
+1200265,8.40274E+11,SULPHUR %10 (sulphatan),Soap,1,1,1,12/22/2024,3:38PM,Supply
+1200265,3.49932E+12,Benzac AC 5%,Cream,1,1,1,12/22/2024,3:38PM,Drug
+1200265,3.7005E+12,Cotrim Fort,Tablet,2,3,1,12/22/2024,3:38PM,Drug
+1200265,8.90605E+12,isotoin 20mg USP,Capsule,3,2,0,12/22/2024,3:38PM,Drug
+1200265,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,12/22/2024,3:38PM,Supply
+1200353,1067,S.A %3 -D,gerawa,1,1,1,4/1/2024,7:53PM,Drug
+1200353,5.90473E+12,Collafix 60cap,Capsule,4,4,1,4/1/2024,7:53PM,Drug
+1200353,1069,C%2-A,gerawa,1,1,1,4/1/2024,7:53PM,Drug
+1200353,1062,A.M-E.C,gerawa,1,1,1,4/1/2024,7:53PM,Drug
+1200353,1063,R.A-C,gerawa,1,1,1,4/1/2024,7:52PM,Drug
+1200353,3.7601E+12,ACM DEPIWHITE ADVANCED,Cream,1,1,1,4/1/2024,7:52PM,Supply
+1200353,3.28277E+12,avene Physiolift eye contour 15ml,spray,1,1,1,4/1/2024,7:52PM,Supply
+1200369,1069,C%2-A,gerawa,1,1,1,9/10/2024,12:32PM,Drug
+1200369,1062,A.M-E.C,gerawa,1,1,1,9/10/2024,12:32PM,Drug
+1200369,1063,R.A-C,gerawa,1,1,1,9/10/2024,12:32PM,Drug
+1200369,1073,P-M 30ml or 40ml,gerawa,1,1,1,9/10/2024,12:32PM,Drug
+1200369,8.69958E+12,dILAPROST 5mg ,Tablet,3,3,1,9/10/2024,12:32PM,Drug
+1200369,2254,LA ROCHE-Posay Anthelios +50 shaka fluid,fluide,1,1,1,9/10/2024,12:32PM,Supply
+1200369,8.90605E+12,isotoin 20mg USP,Capsule,3,2,0,9/10/2024,12:32PM,Drug
+1200369,6.02402E+12,HAIR BOOSTER 60gum,gum,1,1,1,9/10/2024,12:32PM,Drug
+1200369,3.7601E+12,novophan energizing,Shampoo,1,1,1,9/10/2024,12:32PM,Supply
+1200369,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,9/10/2024,12:31PM,Supply
+1200490,8.68112E+12,star hair Minoxidil Plus %5  75ml,spray,1,1,1,8/28/2024,8:37PM,Supply
+1200549,6.02402E+12,sleep aid Enjoy Your sweet Dreams,gum,1,1,1,6/26/2024,4:53PM,Drug
+1200557,720,C-LAX  25tab,Tablet,1,1,1,3/31/2024,5:26PM,Drug
+1200557,5.02305E+12,KiloLoss,Capsule,1,1,1,3/31/2024,5:26PM,Supply
+1200557,4.00173E+12,Multivitamin hansal,effervecent tabalet,1,2,2,3/31/2024,5:26PM,Drug
+1200610,8.40274E+11,queen aromatherapy grad,Soap,1,1,1,1/4/2024,12:55PM,Supply
+1200652,5.94896E+11,Drains The oil,Capsule,2,4,2,5/29/2024,4:21PM,Supply
+1200703,8.69962E+12,Irazole  100mg  15tab,Capsule,3,3,1,11/16/2024,6:55PM,Drug
+1200703,8.69958E+12,CORBINAL %1,Cream,1,1,1,11/16/2024,6:55PM,Drug
+1200707,9.40309E+12,ISOCOR 20mg,Tablet,2,1,0,11/1/2024,7:21PM,Drug
+1200707,1063,R.A-C,gerawa,1,1,1,11/1/2024,7:21PM,Drug
+1200707,1062,A.M-E.C,gerawa,1,1,1,11/1/2024,7:21PM,Drug
+1200707,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,11/1/2024,7:21PM,Supply
+1200727,6.28126E+12,Elica-M,Ointment,1,1,1,6/22/2024,11:32AM,Drug
+1200727,5.70219E+12,Fucidine 15G cream,Cream,1,1,1,6/22/2024,11:32AM,Drug
+1200760,215,Allermine 25mg,Tablet,1,1,1,6/17/2024,2:25PM,Drug
+1200760,1067,S.A %3 -D,gerawa,1,1,1,6/17/2024,2:25PM,Drug
+1200760,4.26022E+12,caelin ketovit shampoo,Shampoo,1,1,1,6/17/2024,2:25PM,Supply
+1200891,1067,S.A %3 -D,gerawa,1,1,1,12/14/2024,1:45PM,Drug
+1200891,533,Chlorohistol 4mg,Tablet,1,1,1,12/14/2024,1:45PM,Drug
+1200891,4.26012E+12,prednisolon  5mg,Tablet,2,5,2,12/14/2024,1:45PM,Drug
+1200891,-10420424,RUGARD UREA %10 Repair bodylotion,Lotion,1,1,1,12/14/2024,1:45PM,Supply
+1200906,-1319732,micropore 3m SPi plaster lut,instrument,24,3,0,9/9/2024,3:04PM,Supply
+1200913,-1319732,micropore 3m SPi plaster lut,instrument,24,6,0,6/10/2024,3:34PM,Supply
+1200913,6.95183E+12,easymed syringe 10ml med,Syring,100,1,0,6/10/2024,3:34PM,Drug
+1200913,6.95589E+12,Gauze Swam 10*10 bchuk,gauze,1,1,1,6/10/2024,3:34PM,Supply
+1200913,8.41021E+12,Johson baby,oil,1,1,1,6/10/2024,3:34PM,Supply
+1200913,5.02647E+12,Chloramphenicol 1% w/w eye oint,Ointment,1,2,2,6/10/2024,3:33PM,Supply
+1200913,8.69984E+12,lefox 500 mg,Tablet,1,1,1,6/10/2024,3:33PM,Drug
+1200913,6.93354E+12,HuaRul cotton buds,cotton,1,1,1,6/10/2024,3:33PM,Supply
+1200913,3.57466E+12,bebe shampoo zartpflege 200ml,Shampoo,1,1,1,6/10/2024,3:33PM,Supply
+1200913,103,normal saline sodium chloride 0.9 500ml,Bottle,1,2,2,6/10/2024,3:33PM,Drug
+1201017,1014,Singulair 5mg paediatric,Tablet,4,4,1,1/11/2024,7:57PM,Drug
+1201025,80432400395,P.O,Powder,1,1,1,12/24/2024,8:42PM,Supply
+1201079,5.90765E+12,Cosinus 60ml NOSE AND SINUSES,spray,1,1,1,2/13/2024,5:03PM,Drug
+1201092,80432400395,P.O,Powder,1,5,5,7/30/2024,5:53PM,Supply
+1201092,1134,Fast Fat Super 1&2 2*60,Tablet,1,1,1,7/30/2024,5:53PM,Supply
+1201092,1.99001E+11,Anti-Aging Collagen + Vitamin C,Tablet,1,1,1,7/30/2024,5:52PM,Supply
+1201115,8.69958E+12,dILAPROST 5mg ,Tablet,3,3,1,4/6/2024,6:43PM,Drug
+1201184,6.2516E+12,Atorvast 20mg,Caplet,2,2,1,3/3/2024,4:21PM,Drug
+1201184,3.59445E+12,Diamicron MR 60mg اصلي,Tablet,2,2,1,3/3/2024,4:20PM,Drug
+1201218,5.06041E+12,nutrigen vegy 12vitamins +3minerals  200ml,Syrup,1,1,1,7/21/2024,6:23PM,Drug
+1201218,1.99001E+11,Anti-Aging Collagen + Vitamin C,Tablet,1,1,1,7/21/2024,6:23PM,Supply
+1201218,8.69955E+12,gainuup powerful fruits 300g,Powder,1,3,3,7/21/2024,6:23PM,Supply
+1201241,80432400395,P.O,Powder,1,3,3,5/31/2024,8:44PM,Supply
+1201241,6.95183E+12,easymed syringe 10ml med,Syring,100,1,0,5/31/2024,8:44PM,Drug
+1201241,8.71956E+12,Vitarux multi v itamin,Syrup,1,2,2,5/31/2024,8:44PM,Drug
+1201316,6.26015E+12,hydroderm Acne wash,gel,1,1,1,8/22/2024,5:07PM,Supply
+1201338,8.90425E+12,istovin 20mg,Capsule,3,2,0,8/6/2024,5:53PM,Drug
+1201338,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,8/6/2024,5:52PM,Supply
+1201338,1069,C%2-A,gerawa,1,1,1,8/6/2024,5:52PM,Drug
+1201338,1063,R.A-C,gerawa,1,1,1,8/6/2024,5:52PM,Drug
+1201338,1062,A.M-E.C,gerawa,1,1,1,8/6/2024,5:51PM,Drug
+1201338,2254,LA ROCHE-Posay Anthelios +50 shaka fluid,fluide,1,1,1,8/6/2024,5:51PM,Supply
+1201397,4.823E+12,farmazoline xylometazoline 0.1% drop,Drop,1,1,1,6/25/2024,8:24PM,Drug
+1201398,7.52831E+11,Choline & Inositol 500/500mg,Tablet,2,2,1,8/5/2024,8:43PM,Supply
+1201453,9.40309E+12,ISOCOR 20mg,Tablet,2,4,2,3/29/2024,4:52PM,Drug
+1201453,6.2911E+12,MEBO Scar,Ointment,1,3,3,3/29/2024,4:52PM,Drug
+1201507,6.76195E+11,SLIMTOL Green Coffee,Capsule,4,6,1,2/1/2024,7:53PM,Drug
+1201507,1151,slim & well ,Capsule,3,3,1,2/1/2024,7:53PM,Drug
+1201507,720,C-LAX  25tab,Tablet,1,2,2,2/1/2024,7:52PM,Drug
+1201507,8.71956E+12,Multvitamin orange flavour,effervecent tabalet,1,2,2,2/1/2024,7:52PM,Supply
+1201535,1062,A.M-E.C,gerawa,1,1,1,4/16/2024,1:25PM,Drug
+1201558,1067,S.A %3 -D,gerawa,1,1,1,12/9/2024,2:52PM,Drug
+1201558,1062,A.M-E.C,gerawa,1,1,1,12/9/2024,2:52PM,Drug
+1201558,1069,C%2-A,gerawa,1,1,1,12/9/2024,2:52PM,Drug
+1201558,8.90425E+12,istovin 20mg,Capsule,3,2,0,12/9/2024,2:52PM,Drug
+1201558,8.69962E+12,Irazole  100mg  15tab,Capsule,3,3,1,12/9/2024,2:52PM,Drug
+1201558,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,12/9/2024,2:52PM,Supply
+1201558,4.26022E+12,caelin %5 sulfur,Soap,1,1,1,12/9/2024,2:52PM,Supply
+1201558,2254,LA ROCHE-Posay Anthelios +50 shaka fluid,fluide,1,1,1,12/9/2024,2:51PM,Supply
+1201558,5.70219E+12,Fucidine 15G cream,Cream,1,1,1,12/9/2024,2:51PM,Drug
+1201559,9.92017E+11,Diclofenac 75mg/3ml ampoules,Amp,10,1,0,8/13/2024,2:59PM,Drug
+1201559,8.69979E+12,Deksamet 2ml,Amp,1,1,1,8/13/2024,2:59PM,Drug
+1201559,3.70542E+12,Euthyrox 50mcg,Tablet,4,4,1,8/13/2024,2:59PM,Drug
+1201598,1067,S.A %3 -D,gerawa,1,1,1,6/15/2024,4:56PM,Drug
+1201598,8.69983E+12,Methotrexate 50mg/5ml vial,Vial,1,1,1,6/15/2024,4:56PM,Drug
+1201667,3.76025E+12,Prednabene 20mg,Tablet,2,1,0,10/13/2024,8:49PM,Drug
+1201667,3.76025E+12,Prednabene 5mg,Tablet,3,2,0,10/13/2024,8:49PM,Drug
+1201699,6.26015E+12,HYDRODERM SPF 50,Cream,1,1,1,3/29/2024,3:24PM,Supply
+1201699,1069,C%2-A,gerawa,1,1,1,3/29/2024,3:22PM,Drug
+1201699,1063,R.A-C,gerawa,1,1,1,3/29/2024,3:22PM,Drug
+1201699,8.40274E+11,queen aromatherapy grad,Soap,1,1,1,3/29/2024,3:22PM,Supply
+1201699,3.7601E+12,ACM DEPIWHITE ADVANCED,Cream,1,1,1,3/29/2024,3:22PM,Supply
+1201729,8.90425E+12,istovin 20mg,Capsule,3,1,0,4/18/2024,4:46PM,Drug
+1201729,1062,A.M-E.C,gerawa,1,1,1,4/18/2024,4:46PM,Drug
+1201729,1063,R.A-C,gerawa,1,1,1,4/18/2024,4:46PM,Drug
+1201729,1069,C%2-A,gerawa,1,1,1,4/18/2024,4:46PM,Drug
+1201729,1067,S.A %3 -D,gerawa,1,2,2,4/18/2024,4:46PM,Drug
+1201729,4.26022E+12,caelin %5 sulfur,Soap,1,1,1,4/18/2024,4:45PM,Supply
+1201729,5.90135E+12,Lip Balm Honey Tra,lip balm,1,1,1,4/18/2024,4:45PM,Supply
+1201729,3.28278E+12,Avene Cleanance gel  300ml,gel,1,1,1,4/18/2024,4:45PM,Supply
+1201744,6.25188E+12,piodol cold&flu day,Tablet,2,1,0,10/29/2024,5:12PM,Drug
+1201744,6.2911E+12,MUSCADOL,Tablet,2,2,1,10/29/2024,5:12PM,Drug
+1201745,1062,A.M-E.C,gerawa,1,1,1,12/1/2024,5:13PM,Drug
+1201756,1062,A.M-E.C,gerawa,1,1,1,7/2/2024,5:40PM,Drug
+1201756,1063,R.A-C,gerawa,1,1,1,7/2/2024,5:40PM,Drug
+1201758,6.25116E+12,vermazol 100mg,Tablet,1,1,1,9/1/2024,5:50PM,Supply
+1201758,80432400395,P.O,Powder,1,1,1,9/1/2024,5:50PM,Supply
+1201758,5.60025E+12,kidssi APPETITE 150ML,Syrup,1,1,1,9/1/2024,5:50PM,Drug
+1201797,8.01313E+12,foltene  women,Shampoo,1,1,1,12/27/2024,7:42PM,Supply
+1201800,1062,A.M-E.C,gerawa,1,1,1,12/23/2024,7:45PM,Drug
+1201800,1063,R.A-C,gerawa,1,1,1,12/23/2024,7:45PM,Drug
+1201800,1069,C%2-A,gerawa,1,1,1,12/23/2024,7:45PM,Drug
+1201800,3.66143E+12,Depiderm eye contour,eye contour,1,1,1,12/23/2024,7:45PM,Supply
+1201800,3.0315E+12,ISIS Teen Derm,gel,1,1,1,12/23/2024,7:45PM,Supply
+1201800,1065,S.A % 1.5 -E.O,gerawa,1,1,1,12/23/2024,7:44PM,Drug
+1201805,2020,Differin  adapalene 0.1%  30g,gel,1,1,1,5/17/2024,8:00PM,Drug
+1201805,3.0315E+12,ISIS Teen Derm,gel,1,1,1,5/17/2024,8:00PM,Supply
+1201805,2254,LA ROCHE-Posay Anthelios +50 shaka fluid,fluide,1,1,1,5/17/2024,8:00PM,Supply
+1201805,4.26022E+12,caelin %2 sulfur,Soap,1,1,1,5/17/2024,8:00PM,Supply
+1201805,1063,R.A-C,gerawa,1,1,1,5/17/2024,8:00PM,Drug
+1201805,1062,A.M-E.C,gerawa,1,1,1,5/17/2024,8:00PM,Drug
+1201805,3.66143E+12,Depiderm eye contour,eye contour,1,1,1,5/17/2024,8:00PM,Supply
+1201805,1067,S.A %3 -D,gerawa,1,1,1,5/17/2024,8:00PM,Drug
+1201805,1069,C%2-A,gerawa,1,1,1,5/17/2024,8:00PM,Drug
+1201805,8.90425E+12,istovin 20mg,Capsule,3,2,0,5/17/2024,8:00PM,Drug
