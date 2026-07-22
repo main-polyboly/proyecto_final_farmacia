@@ -1,2 +1,0 @@
-from core.models import AlertaDesercion
-from .service import detectar_clientes_en_riesgo, generar_campana_recuperacion
