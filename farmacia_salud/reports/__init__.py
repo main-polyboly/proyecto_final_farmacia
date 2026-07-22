@@ -1,0 +1,1 @@
+from .informe_manager import generar_informe_texto, generar_informe_pdf
